@@ -15,8 +15,11 @@ This space is dedicated to showcasing my **Data analysis projects using Python**
 
 💡 I'm constantly learning and improving, so stay tuned for more exciting projects! Feel free to explore, fork, and contribute. Let's grow together in the world of **data science**! 🚀  
  
- -- 
-Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects. 
+ --- 
+ 
+<div align="center">
+<p align="center">
+    Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects. 
     
 🔗 Connect with me on LinkedIn 
  
