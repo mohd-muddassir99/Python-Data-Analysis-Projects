@@ -25,10 +25,11 @@ This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** usin
 - **Peak Sales Periods**: Analyzed the time periods with the highest transaction volume.
 - **Customer Demographics**: Determined the most valuable customer segments based on age, gender, and location.
 - **Average Spending Behavior**: Discovered variations in spending habits across different demographics.
-## View & Download the live Tableau Dashboard here:
+- 
+## View & Download Notebook File:
 
 <p align="center">
-    <a href="https://public.tableau.com/views/MOMW30-2024TVStreamingSnapshot/MOMW30-2024TVStreamingSnapShotofUS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <a href="https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/68b9855a951d57f063330c7a04e9f7acee08a787/Exploratory%20Data%20Analysis%20of%20%20Diwali%20Sales/Exploratory%20data%20Analysis%20Project.ipynb">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="70px" height="90px" alt="Access Dataset"><br>
         View
     </a>
