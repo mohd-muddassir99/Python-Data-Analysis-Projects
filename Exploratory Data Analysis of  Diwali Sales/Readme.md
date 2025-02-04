@@ -29,7 +29,7 @@ This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** usin
 
 <p align="center">
     <a href="https://public.tableau.com/views/MOMW30-2024TVStreamingSnapshot/MOMW30-2024TVStreamingSnapShotofUS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="120px" alt="Access Dataset"><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="70px" height="90px" alt="Access Dataset"><br>
         View
     </a>
 </p> <br>
