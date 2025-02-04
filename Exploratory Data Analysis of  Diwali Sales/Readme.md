@@ -27,7 +27,7 @@ This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** usin
 - **Customer Demographics**: Determined the most valuable customer segments based on age, gender, and location.
 - **Average Spending Behavior**: Discovered variations in spending habits across different demographics.
   
-## View & Download Notebook File:
+## View & Download (ipynb)Notebook File:
 
 <p align="center">
     <a href="https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/68b9855a951d57f063330c7a04e9f7acee08a787/Exploratory%20Data%20Analysis%20of%20%20Diwali%20Sales/Exploratory%20data%20Analysis%20Project.ipynb">
