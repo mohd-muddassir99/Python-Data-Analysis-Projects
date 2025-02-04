@@ -7,7 +7,7 @@ This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** usin
 
 ## Dashboard 📊: 
 <div align="center">
-    <img src="https://github.com/mohd-muddassir99/MakeoverMonday-TableauProjects/blob/6d77d119aaff9471942d4a234a9b17480cf46c14/Total%20TV%20and%20Streaming%20snapshot%20of%20US%20in%201%20year%20%23MOM%20W30%20-2024/%23MOM%20W30-%202024%20TV%20%26%20Streaming%20SnapShot%20of%20US.png" width="800px" height="600px">
+    <img src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/199907949/projects/e7eaede6-df42-425c-a174-30192ac3501d.jpg" width="500px" height="300px">
 </div> 
 
 ## Methodologies Used 📊:
@@ -26,7 +26,7 @@ This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** usin
 - **Peak Sales Periods**: Analyzed the time periods with the highest transaction volume.
 - **Customer Demographics**: Determined the most valuable customer segments based on age, gender, and location.
 - **Average Spending Behavior**: Discovered variations in spending habits across different demographics.
-- 
+  
 ## View & Download Notebook File:
 
 <p align="center">
