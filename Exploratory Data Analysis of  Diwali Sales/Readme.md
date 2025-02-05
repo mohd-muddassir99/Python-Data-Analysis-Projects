@@ -5,7 +5,7 @@ This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** usin
 
 - **To Download the dataset** : [Diwali Sales Data🔗](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/93b181f09ade261aab863b57923be53121d8dc1f/Exploratory%20Data%20Analysis%20of%20%20Diwali%20Sales/Diwali%20Sales%20Data.csv)
 
-## Dashboard 📊: 
+
 <div align="center">
     <img src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/199907949/projects/e7eaede6-df42-425c-a174-30192ac3501d.jpg" width="500px" height="300px">
 </div> 
