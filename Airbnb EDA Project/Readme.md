@@ -35,6 +35,7 @@ This project focuses on **Exploratory Data Analysis (EDA) of Airbnb listings** u
         View
     </a>
 </p> <br>
+This analysis provides valuable insights for Airbnb hosts, travelers, and market analysts, helping in better pricing strategies, property management, and customer satisfaction improvement.
 
 ---
 
