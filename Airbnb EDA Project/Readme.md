@@ -30,7 +30,7 @@ This project focuses on **Exploratory Data Analysis (EDA) of Airbnb listings** u
 ## View & Download (ipynb) Notebook File:
 
 <p align="center">
-    <a href="https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/68b9855a951d57f063330c7a04e9f7acee08a787/Exploratory%20Data%20Analysis%20of%20%20Diwali%20Sales/Exploratory%20data%20Analysis%20Project.ipynb">
+    <a href="https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/a119dd817649e57a10a7f2a6e2eb7e4bfb157871/Airbnb%20EDA%20Project/Airbnb%20EDA%20Project.ipynb">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="70px" height="90px" alt="Access Dataset"><br>
         View
     </a>
