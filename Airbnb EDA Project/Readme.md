@@ -3,7 +3,7 @@
 ## Introduction: 
 This project focuses on Exploratory Data Analysis (EDA) of Airbnb listings using Python. The objective is to analyze trends in pricing, availability, and customer preferences while identifying key factors that influence booking behavior. The analysis helps in understanding market dynamics and optimizing business strategies for hosts and property managers.
 
-- **To Download the dataset** : [Airnbnb Listing Data🔗](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/93b181f09ade261aab863b57923be53121d8dc1f/Exploratory%20Data%20Analysis%20of%20%20Diwali%20Sales/Diwali%20Sales%20Data.csv)
+- **To Download the dataset** : [Airnbnb Listing Data🔗](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/f22eee97927bf4c645b4635784db98f03c4ca01e/Airbnb%20EDA%20Project/Airbnb%20EDA%20Dataset.csv)
 
 ## Dashboard 📊: 
 <div align="center">
