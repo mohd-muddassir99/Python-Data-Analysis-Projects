@@ -5,9 +5,9 @@ This project focuses on **Exploratory Data Analysis (EDA) of Airbnb listings** u
 
 - **To Download the dataset** : [Airnbnb Listing Data🔗](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/f22eee97927bf4c645b4635784db98f03c4ca01e/Airbnb%20EDA%20Project/Airbnb%20EDA%20Dataset.csv)
 
-## Dashboard 📊: 
+
 <div align="center">
-    <img src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/199907949/projects/e7eaede6-df42-425c-a174-30192ac3501d.jpg" width="500px" height="300px">
+    <img src="https://media.licdn.com/dms/image/D5612AQFG_AroFTYoOQ/article-cover_image-shrink_720_1280/0/1669549749301?e=2147483647&v=beta&t=gWmiRVJD_ImR1yFXoOogD7YjssvhSLU40aRqkrTNY40" width="500px" height="300px">
 </div> 
 
 ## Methodologies Used 📊:
