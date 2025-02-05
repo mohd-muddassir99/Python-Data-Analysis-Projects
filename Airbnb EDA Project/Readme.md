@@ -25,7 +25,7 @@ This project focuses on Exploratory Data Analysis (EDA) of Airbnb listings using
 - **Price Distribution**: Identified price variations based on property type, location, and amenities.
 - **Review Impact**: Analyzed how customer reviews and ratings influence bookings.
 - **Availability Trends**: Examined seasonal fluctuations in listings and occupancy rates.
-- **Popular Locations**: Identified high-demand areas and their characteristics.
+- **Popular Locations**: Identified high-demand areas and their characteristics
   
 ## View & Download (ipynb) Notebook File:
 
