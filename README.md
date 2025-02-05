@@ -8,6 +8,12 @@ This space is dedicated to showcasing my **Data analysis projects using Python**
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230510174745/Data-Analysis-with-Python.webp" width="900px" height="400px">
 </div> 
 
+## 📚 Table of Contents
+
+Please find the links for the Project's. Simply click on the links to access each Project.
+- [Exploratory Data Analysis of  Diwali Sales](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/tree/a26fda6a84fb61b85e4ad58ddb2d649890858659/Exploratory%20Data%20Analysis%20of%20%20Diwali%20Sales)
+- [Airbnb EDA Project](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/tree/a26fda6a84fb61b85e4ad58ddb2d649890858659/Airbnb%20EDA%20Project)
+
 ## 🔍 What You’ll Find Here:  
 ✔️ **Exploratory Data Analysis (EDA)**  
 ✔️ **Data Visualization (Matplotlib, Seaborn, Plotly)**  
