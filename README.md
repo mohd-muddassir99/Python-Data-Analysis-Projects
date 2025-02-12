@@ -23,7 +23,7 @@ Please find the links for the Project's. Simply click on the links to access eac
 ✔️ **Machine Learning Models (Scikit-learn)**  
 
 
-💡 I'm constantly learning and improving, so stay tuned for more exciting projects! Feel free to explore, fork, and contribute. Let's grow together in the world of **data science**! 🚀  
+💡 I'm constantly learning and improving, so stay tuned for more exciting projects! Feel free to explore, fork, and contribute. Let's grow together in the world of **data science** 🚀  
  
  --- 
  
