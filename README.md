@@ -31,7 +31,7 @@ Please find the links for the Project's. Simply click on the links to access eac
 <p align="center">
     Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects. 
     
-🔗 Connect with me on LinkedIn 
+🔗 Connect with me on Linkedin 
  
   <p align="center">
     <a href="https://www.linkedin.com/in/mohd-muddassir99/">
