@@ -2,7 +2,7 @@
 
 Welcome to my GitHub's Python Data Analysis Project repository 🎉  
 
-This space is dedicated to showcasing my **Data analysis projects using Python**, where I explore datasets, apply analytical techniques, and derive meaningful insights. From **data cleaning and preprocessing** to **visualization and machine learning**, each project reflects my journey in leveraging Python for real-world problem-solving.  
+This space is dedicated to showcasing my **Data analysis projects using Python**, where I explore datasets, apply analytical techniques, and derive meaningful insights. From **data cleaning and preprocessing** to **visualization and machine learning**, each project reflects my journey in leveraging Python for real world problem-solving.  
 
 <div align="center">
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230510174745/Data-Analysis-with-Python.webp" width="900px" height="400px">
