@@ -29,7 +29,7 @@ Please find the links for the Project's. Simply click on the links to access eac
  
 <div align="center">
 <p align="center">
-    Thanks for visiting my GitHub!If you find my work fascinating, don't forget to ⭐️ your favorite projects. 
+    Thanks for visiting my GitHub! If you find my work fascinating, don't forget to ⭐️ your favorite projects. 
     
 🔗 Connect with me on LinkedIn 
  
