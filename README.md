@@ -1,4 +1,4 @@
-# 📊Data & Analysis Projects with Python 🚀  
+# 📊Data & Analysis Project with Python 🚀  
 
 Welcome to my GitHub's Python Data Analysis Project repository 🎉  
 
