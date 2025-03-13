@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) on Diwali Sales 
+# IPL Auction Table 2022 Web Scrapping
 
 ## Introduction: 
 This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** using **Python**. The goal is to analyze customer purchasing behavior, identify sales trends, and derive meaningful insights from transaction data. By cleaning and visualizing the data, this analysis uncovers patterns that help in business decision-making.
