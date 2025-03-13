@@ -10,7 +10,7 @@ This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** usin
     <img src="https://i.ytimg.com/vi/UeQYSH2--sk/sddefault.jpg" width="500px" height="300px">
 </div> 
 
-## Methodologies Used 📊:
+## Methodologies Used📊:
 - **Data Cleaning**: Handled missing values, removed duplicates, and converted data types for consistency.
 - **Exploratory Data Analysis (EDA)**: Used statistical methods and visualization tools to understand trends.
 - **Summary Statistics**: Analyzed key metrics such as total sales, average order value, and customer segmentation.
