@@ -7,7 +7,7 @@ This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** usin
 
 
 <div align="center">
-    <img src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/199907949/projects/e7eaede6-df42-425c-a174-30192ac3501d.jpg" width="500px" height="300px">
+    <img src="https://i.ytimg.com/vi/UeQYSH2--sk/sddefault.jpg" width="500px" height="300px">
 </div> 
 
 ## Methodologies Used 📊:
