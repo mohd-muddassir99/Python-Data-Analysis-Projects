@@ -20,10 +20,10 @@ This project focuses on **Web Scraping the IPL Auction 2022** table using Python
 - **Data Cleaning**: Extracted data may contain inconsistencies, requiring preprocessing.
 
 ## Key Insights 💡:
-- **Top Spending Categories**: Identified product categories that contributed the most to total revenue.
-- **Peak Sales Periods**: Analyzed the time periods with the highest transaction volume.
-- **Customer Demographics**: Determined the most valuable customer segments based on age, gender, and location.
-- **Average Spending Behavior**: Discovered variations in spending habits across different demographics.
+- **Top Sold Players**: Identified the highest-paid players in the auction.
+- **Team Spending Patterns**: Analyzed how different franchises allocated their budgets.
+- **Player Category Trends**: Examined which player types (batsman, bowler, all-rounder) were in high demand.
+- **Auction Strategy**: Observed patterns in bidding trends and price fluctuations.
   
 ## View & Download (ipynb) Notebook File:
 
