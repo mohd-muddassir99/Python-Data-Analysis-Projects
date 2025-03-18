@@ -15,9 +15,9 @@ This project focuses on **Web Scraping the IPL Auction 2022** table using Python
 - **Data Analysis**: Performed exploratory analysis to understand team-wise spending, player prices, and auction trends.
 
 ## Potential Challenges🛠:
-- **Data Quality Issues**: Presence of missing values and inconsistencies required thorough preprocessing.
-- **Skewed Data**: Sales data might be unevenly distributed across different categories, requiring normalization.
-- **Identifying Meaningful Trends**: Differentiating seasonal effects from genuine business insights.
+- **Website Structure Changes**: Dynamic updates on websites can break the scraping process.
+- **Handling Dynamic Content**: Some data may be loaded dynamically via JavaScript, requiring additional techniques such as Selenium.
+- **Data Cleaning**: Extracted data may contain inconsistencies, requiring preprocessing.
 
 ## Key Insights 💡:
 - **Top Spending Categories**: Identified product categories that contributed the most to total revenue.
