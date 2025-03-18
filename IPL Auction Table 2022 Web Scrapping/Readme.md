@@ -9,10 +9,10 @@ This project focuses on **Web Scraping the IPL Auction 2022** table using Python
 </div> 
 
 ## Methodologies Used📊:
-- **Data Cleaning**: Handled missing values, removed duplicates, and converted data types for consistency.
-- **Exploratory Data Analysis (EDA)**: Used statistical methods and visualization tools to understand trends.
-- **Summary Statistics**: Analyzed key metrics such as total sales, average order value, and customer segmentation.
-- **Data Visualization**: Created bar charts, histograms, and scatter plots to reveal patterns in sales, customer demographics, and spending behavior.
+- **Web Scraping**: Used Python libraries such as BeautifulSoup and Requests to extract data from the IPL auction table.
+- **Data Processing**: Cleaned and formatted the scraped data into a structured tabular format.
+- **Data Storage**: Stored the extracted data in CSV or a database for further analysis.
+- **Data Analysis**: Performed exploratory analysis to understand team-wise spending, player prices, and auction trends.
 
 ## Potential Challenges🛠:
 - **Data Quality Issues**: Presence of missing values and inconsistencies required thorough preprocessing.
