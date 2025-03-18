@@ -1,7 +1,8 @@
 # IPL Auction Table 2022 Web Scrapping
 
 ## Introduction: 
-This project focuses on **Exploratory Data Analysis (EDA) of Diwali Sales** using **Python**. The goal is to analyze customer purchasing behavior, identify sales trends, and derive meaningful insights from transaction data. By cleaning and visualizing the data, this analysis uncovers patterns that help in business decision-making.
+This project focuses on **Web Scraping the IPL Auction 2022** table using Python. The objective is to extract structured data from a web page, process it, and analyze key insights related to player auctions, including sold prices, team allocations, and player statistics.
+
 
 - **To Download the dataset** : [Diwali Sales Data🔗](https://github.com/mohd-muddassir99/Python-Data-Analysis-Projects/blob/93b181f09ade261aab863b57923be53121d8dc1f/Exploratory%20Data%20Analysis%20of%20%20Diwali%20Sales/Diwali%20Sales%20Data.csv)
 
